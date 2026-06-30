@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I'm Anonnyyy
 
-<!--
-**Anonnyyy/Anonnyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a robotics engineering student at **Zhejiang University**.
 
-Here are some ideas to get you started:
+I focus on **robot learning, embodied intelligence, and humanoid robot control**.  
+I enjoy building systems that connect simulation, algorithms, and real robots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Research Interests
+
+- Humanoid robot control
+- Robot learning and reinforcement learning
+- Imitation learning and motion tracking
+- Sim-to-real transfer
+- Embodied AI
+- Whole-body control and locomotion
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, C++, MATLAB
+- **Robotics:** ROS / ROS 2, Isaac Sim, MuJoCo, Gymnasium
+- **Learning:** PyTorch, Reinforcement Learning, Imitation Learning
+- **Tools:** Linux, Git, VS Code, LaTeX
+
+### 🚀 What I'm working on
+
+- Learning-based control for humanoid robots
+- Motion imitation and tracking in simulation
+- Bridging high-level planning and low-level robot control
+- Making robotics systems more robust in real-world scenarios
+
+### 📌 Motto
+
+> Robots should not only move, but understand how to move.
+
+### 📫 Contact
+
+- GitHub: [@Anonnyyy](https://github.com/Anonnyyy)
+- Email: your_email@example.com
