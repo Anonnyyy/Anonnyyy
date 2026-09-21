@@ -20,6 +20,8 @@ I'm a robotics engineering student at **Zhejiang University**, working on humano
 
 [查看项目介绍、设计与演示 →](https://oshwhub.com/23dian-sai-xiao-sai/23dian-sai-ce-liang-ti)
 
+[GitHub 项目仓库](https://github.com/Anonnyyy/signal-separation-2023)
+
 原项目发布于嘉立创开源硬件平台，采用 **CC BY-NC 3.0** 协议；具体设计和授权以原页面为准。
 
 ## Interests / 关注方向
