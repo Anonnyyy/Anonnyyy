@@ -8,12 +8,6 @@ I'm a robotics engineering student at **Zhejiang University**, working on humano
 
 ## Selected work / 代表项目
 
-### 三点控制器 · Three-Point Controller
-
-人形机器人控制研究项目。项目资料和详细介绍暂时保存在私有仓库，尚未公开。
-
-[项目主页（需仓库访问权限）](https://github.com/Anonnyyy/three-point-controller)
-
 ### 信号分离装置 · Signal Separation System
 
 **2023 全国大学生电子设计竞赛 H 题 · 全国一等奖 · HandDream 团队**
