@@ -1,31 +1,54 @@
 # Anonnyyy
 
-**Humanoid Robotics · Control · Embedded Systems**
+**Humanoid Robotics · Motion Planning · Embedded Systems**
 
-I'm a robotics engineering student at **Zhejiang University**, working on humanoid robot control. I enjoy connecting simulation, learning algorithms, and real hardware.
+I'm a robotics engineering student at **Zhejiang University**, working on humanoid motion planning and whole-body control.
 
-我关注人形机器人控制，也喜欢从电路、嵌入式软件到算法实现，搭建可以真正运行的系统。
+我关注人形机器人的运动规划、全身控制与机器人学习，也喜欢搭建从电路到算法的完整系统。
 
-## Selected work / 代表项目
+## Selected Projects / 代表项目
 
-### 信号分离装置 · Signal Separation System
+<table>
+<tr>
+<td width="280" align="center">
+<a href="https://github.com/Anonnyyy/three-point-controller"><img src="assets/three-point.jpg" width="280" alt="三点控制器 · ASYNC-3PT / ASYNC-CA 项目画面"></a>
+</td>
+<td>
+<h3><a href="https://github.com/Anonnyyy/three-point-controller">三点控制器 · ASYNC-3PT / ASYNC-CA</a></h3>
+<p>面向低频头部与双手轨迹的人形机器人异步控制。结合时间索引、MPC 轨迹补全与自引导后训练，在仿真和 Unitree G1 实机上验证。</p>
+<p><strong>项目展示 · 研究代码暂未发布</strong></p>
+<p><a href="https://github.com/Anonnyyy/three-point-controller">项目介绍</a> · <a href="https://github.com/Anonnyyy/three-point-controller/blob/main/paper/paper.pdf">论文</a> · <a href="https://github.com/Anonnyyy/three-point-controller/blob/main/media/demo.mp4">演示视频</a></p>
+</td>
+</tr>
+</table>
 
-**2023 全国大学生电子设计竞赛 H 题 · 全国一等奖 · HandDream 团队**
+<table>
+<tr>
+<td width="280" align="center">
+<a href="https://github.com/Anonnyyy/rcar-humanoid-reaching"><img src="assets/rcar.jpg" width="280" alt="RCar · Guided Diffusion Planning 项目画面"></a>
+</td>
+<td>
+<h3><a href="https://github.com/Anonnyyy/rcar-humanoid-reaching">RCar · Guided Diffusion Planning</a></h3>
+<p>本科毕设：基于扩散策略与模仿学习的人形机器人运动规划与控制。通过运动先验生成任务数据，结合扩散规划与全身跟踪，在 H1 仿真中完成视觉目标到达。</p>
+<p><strong>项目展示 · 研究代码暂未发布</strong></p>
+<p><a href="https://github.com/Anonnyyy/rcar-humanoid-reaching">项目介绍</a> · <a href="https://github.com/Anonnyyy/rcar-humanoid-reaching/blob/main/paper/rcar.pdf">论文</a> · <a href="https://github.com/Anonnyyy/rcar-humanoid-reaching/blob/main/media/demo.mp4">演示视频</a></p>
+</td>
+</tr>
+</table>
 
-以 STM32F407ZGT6 为核心，使用 FFT 识别混合信号，通过 AD9833 DDS 重建波形，并结合锁相检测与软件频率调节实现闭环跟踪。
+<table>
+<tr>
+<td width="280" align="center">
+<a href="https://github.com/Anonnyyy/signal-separation-2023"><img src="assets/signal-separation.jpeg" width="280" alt="HandDream · 信号分离装置 项目画面"></a>
+</td>
+<td>
+<h3><a href="https://github.com/Anonnyyy/signal-separation-2023">HandDream · 信号分离装置</a></h3>
+<p>基于 STM32、FFT 与 AD9833 DDS 实现信号分析和波形复现，通过锁相检测与频率调节实现闭环跟踪。</p>
+<p><strong>2023 全国大学生电子设计竞赛 H 题 · 全国一等奖</strong></p>
+<p>山东大学 · 吴浩瀚、曹志君、刘雨萌</p>
+<p><a href="https://github.com/Anonnyyy/signal-separation-2023">项目介绍</a> · <a href="https://oshwhub.com/23dian-sai-xiao-sai/23dian-sai-ce-liang-ti">代码、设计与测试视频</a></p>
+</td>
+</tr>
+</table>
 
-- **信号处理：** 混合信号分析、波形重建、相位调节。
-- **系统实现：** 模拟电路、嵌入式控制与串口屏交互。
-- **团队成员：** 吴浩瀚、曹志君、刘雨萌；山东大学。
-
-[查看项目介绍、设计与演示 →](https://oshwhub.com/23dian-sai-xiao-sai/23dian-sai-ce-liang-ti)
-
-[GitHub 项目仓库](https://github.com/Anonnyyy/signal-separation-2023)
-
-原项目发布于嘉立创开源硬件平台，采用 **CC BY-NC 3.0** 协议；具体设计和授权以原页面为准。
-
-## Interests / 关注方向
-
-Humanoid control · Robot learning · Sim-to-real · Embedded control · Signal processing
-
-
+三点控制器与 RCar 仓库目前公开论文、图片和演示资料，研究实现代码尚未发布。电赛代码与设计资料见嘉立创原项目，采用 CC BY-NC 3.0 协议。
