@@ -14,7 +14,7 @@ I'm a robotics engineering student at **Zhejiang University**, working on humano
 <a href="https://github.com/Anonnyyy/three-point-controller"><img src="assets/three-point.jpg" width="280" alt="三点控制器 · ASYNC-3PT / ASYNC-CA 项目画面"></a>
 </td>
 <td>
-<h3><a href="https://github.com/Anonnyyy/three-point-controller">三点控制器 · ASYNC-3PT / ASYNC-CA</a></h3>
+<h3><a href="https://github.com/Anonnyyy/three-point-controller"> ASYNC-3PT / ASYNC-CA</a></h3>
 <p>面向低频头部与双手轨迹的人形机器人异步控制。结合时间索引、MPC 轨迹补全与自引导后训练，在仿真和 Unitree G1 实机上验证。</p>
 <p><strong>项目展示 · 研究代码暂未发布</strong></p>
 <p><a href="https://github.com/Anonnyyy/three-point-controller">项目介绍</a> · <a href="https://github.com/Anonnyyy/three-point-controller/blob/main/paper/paper.pdf">论文</a> · <a href="https://github.com/Anonnyyy/three-point-controller/blob/main/media/demo.mp4">演示视频</a></p>
