@@ -62,3 +62,7 @@ I'm a robotics engineering student at **Zhejiang University**, working on humano
 一个本地运行的 Codex 工作台，集中查看 Windows / Linux 多台电脑上的会话进度、未读回复与任务分叉，支持拖动归类和远程设备接入。
 
 [项目介绍与源码](https://github.com/Anonnyyy/codex-workbench) · [下载便携版](https://github.com/Anonnyyy/codex-workbench/releases/latest)
+
+### 手写泰语翻译网站
+
+本地运行的泰语手写票据翻译网页。支持手写区域裁剪、泰文识别、中泰双语翻译与金额校验，可人工修正结果，生成中文贴图或导出 JSON。针对固定票据版式，默认处理流程无需上传云端。
