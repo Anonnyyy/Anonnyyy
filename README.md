@@ -73,7 +73,7 @@ I'm a robotics engineering student at **Zhejiang University**, working on humano
 <table>
 <tr>
 <td width="280" align="center">
-<img src="assets/thai-translator.png" width="140" alt="手写泰语翻译网站的票据上传界面">
+<a href="assets/thai-translator.png"><img src="assets/thai-translator.png" width="280" alt="手写泰语翻译网站：中文贴图与中泰双语识别结果"></a>
 </td>
 <td>
 <h3>手写泰语翻译网站</h3>
