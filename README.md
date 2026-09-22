@@ -6,18 +6,20 @@ I'm a robotics engineering student at **Zhejiang University**, working on humano
 
 我关注人形机器人的运动规划、全身控制与机器人学习，也喜欢搭建从电路到算法的完整系统。
 
+[个人项目网站](https://anonnyyy.github.io/)
+
 ## Selected Projects / 代表项目
 
 <table>
 <tr>
 <td width="280" align="center">
-<a href="https://github.com/Anonnyyy/three-point-controller"><img src="assets/three-point.jpg" width="280" alt="三点控制器 · ASYNC-3PT / ASYNC-CA 项目画面"></a>
+<a href="https://anonnyyy.github.io/projects/three-point-controller/"><img src="assets/three-point.jpg" width="280" alt="三点控制器 · ASYNC-3PT / ASYNC-CA 项目画面"></a>
 </td>
 <td>
-<h3><a href="https://github.com/Anonnyyy/three-point-controller"> ASYNC-3PT / ASYNC-CA</a></h3>
+<h3><a href="https://anonnyyy.github.io/projects/three-point-controller/"> ASYNC-3PT / ASYNC-CA</a></h3>
 <p>面向低频头部与双手轨迹的人形机器人异步控制。结合时间索引、MPC 轨迹补全与自引导后训练，在仿真和 Unitree G1 实机上验证。</p>
 <p><strong>项目展示 · 研究代码暂未发布</strong></p>
-<p><a href="https://github.com/Anonnyyy/three-point-controller">项目介绍</a> · <a href="https://github.com/Anonnyyy/three-point-controller/blob/main/paper/paper.pdf">论文</a> · <a href="https://github.com/Anonnyyy/three-point-controller/blob/main/media/demo.mp4">演示视频</a></p>
+<p><a href="https://anonnyyy.github.io/projects/three-point-controller/">项目介绍</a> · <a href="https://anonnyyy.github.io/projects/three-point-controller/paper/paper.pdf">论文</a> · <a href="https://anonnyyy.github.io/projects/three-point-controller/#video">演示视频</a></p>
 </td>
 </tr>
 </table>
@@ -25,13 +27,13 @@ I'm a robotics engineering student at **Zhejiang University**, working on humano
 <table>
 <tr>
 <td width="280" align="center">
-<a href="https://github.com/Anonnyyy/rcar-humanoid-reaching"><img src="assets/rcar.jpg" width="280" alt="RCar · Guided Diffusion Planning 项目画面"></a>
+<a href="https://anonnyyy.github.io/projects/rcar-humanoid-reaching/"><img src="assets/rcar.jpg" width="280" alt="RCar · Guided Diffusion Planning 项目画面"></a>
 </td>
 <td>
-<h3><a href="https://github.com/Anonnyyy/rcar-humanoid-reaching">RCar · Guided Diffusion Planning</a></h3>
+<h3><a href="https://anonnyyy.github.io/projects/rcar-humanoid-reaching/">RCar · Guided Diffusion Planning</a></h3>
 <p>本科毕设：基于扩散策略与模仿学习的人形机器人运动规划与控制。通过运动先验生成任务数据，结合扩散规划与全身跟踪，在 H1 仿真中完成视觉目标到达。</p>
 <p><strong>项目展示 · 研究代码暂未发布</strong></p>
-<p><a href="https://github.com/Anonnyyy/rcar-humanoid-reaching">项目介绍</a> · <a href="https://github.com/Anonnyyy/rcar-humanoid-reaching/blob/main/paper/rcar.pdf">论文</a> · <a href="https://github.com/Anonnyyy/rcar-humanoid-reaching/blob/main/media/demo.mp4">演示视频</a></p>
+<p><a href="https://anonnyyy.github.io/projects/rcar-humanoid-reaching/">项目介绍</a> · <a href="https://anonnyyy.github.io/projects/rcar-humanoid-reaching/paper/rcar.pdf">论文</a> · <a href="https://anonnyyy.github.io/projects/rcar-humanoid-reaching/#video">演示视频</a></p>
 </td>
 </tr>
 </table>
