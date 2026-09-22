@@ -60,7 +60,7 @@ I'm a robotics engineering student at **Zhejiang University**, working on humano
 <table>
 <tr>
 <td width="280" align="center">
-<a href="https://github.com/Anonnyyy/codex-workbench"><img src="assets/codex-workbench.png" width="180" alt="Codex 工作流监管 App 图标"></a>
+<a href="assets/codex-workbench-page.png"><img src="assets/codex-workbench-page.png" width="280" alt="Codex 工作流监管 App 实际页面：设备、项目与任务列表"></a>
 </td>
 <td>
 <h3><a href="https://github.com/Anonnyyy/codex-workbench">Codex 工作流监管 App</a></h3>
