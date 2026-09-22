@@ -54,3 +54,11 @@ I'm a robotics engineering student at **Zhejiang University**, working on humano
 </table>
 
 三点控制器与 RCar 仓库目前公开论文、图片和演示资料，研究实现代码尚未发布。电赛代码与设计资料见嘉立创原项目，采用 CC BY-NC 3.0 协议。
+
+## codex做的小玩具
+
+### [Codex 工作流监管 App](https://github.com/Anonnyyy/codex-workbench)
+
+一个本地运行的 Codex 工作台，集中查看 Windows / Linux 多台电脑上的会话进度、未读回复与任务分叉，支持拖动归类和远程设备接入。
+
+[项目介绍与源码](https://github.com/Anonnyyy/codex-workbench) · [下载便携版](https://github.com/Anonnyyy/codex-workbench/releases/latest)
